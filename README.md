@@ -1,2 +1,2 @@
 # odin-recipes
-This website has the ingredients and steps for two of my favourite recipes. Enjoy!
+A website I made with the Odin Project when I was starting out with HTML and CSS.
